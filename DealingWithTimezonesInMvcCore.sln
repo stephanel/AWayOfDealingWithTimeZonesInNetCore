@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29721.120
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealingWithTimezonesInMvcCore", "DealingWithTimezonesInMvcCore\DealingWithTimezonesInMvcCore.csproj", "{95E110B7-78CF-4610-97A0-85B28BA03FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealingWithTimezonesInMvcCore.Tests", "DealingWithTimezonesInMvcCore.Tests\DealingWithTimezonesInMvcCore.Tests.csproj", "{0E98EA84-C3D8-4A11-B25F-122C41776711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95E110B7-78CF-4610-97A0-85B28BA03FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E110B7-78CF-4610-97A0-85B28BA03FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E110B7-78CF-4610-97A0-85B28BA03FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E110B7-78CF-4610-97A0-85B28BA03FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E98EA84-C3D8-4A11-B25F-122C41776711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E98EA84-C3D8-4A11-B25F-122C41776711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E98EA84-C3D8-4A11-B25F-122C41776711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E98EA84-C3D8-4A11-B25F-122C41776711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB7562F9-09E5-4ADE-A60D-C6F73B68850A}
+	EndGlobalSection
+EndGlobal
